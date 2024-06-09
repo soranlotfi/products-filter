@@ -19,11 +19,11 @@
                     </div>
                     <div class="header-buttons">
                         <div class="header-buttons-container">
-                            <button class="header-filter-btn" data-name="All">همه</button>
-                            <button class="header-filter-btn" data-name="Watch">ساعت</button>
-                            <button class="header-filter-btn" data-name="Shirt">پیراهن</button>
-                            <button class="header-filter-btn" data-name="Gown">لباس شب</button>
-                            <button class="header-filter-btn" data-name="Jewelry">جواهرات</button>
+                            <button class="header-filter-btn" data-number="1" data-focus="true" data-type="all">همه</button>
+                            <button class="header-filter-btn" data-number="2" data-focus="false" data-type="watch">ساعت</button>
+                            <button class="header-filter-btn" data-number="3" data-focus="false" data-type="shirt">پیراهن</button>
+                            <button class="header-filter-btn" data-number="4" data-focus="false" data-type="gown">لباس شب</button>
+                            <button class="header-filter-btn" data-number="5" data-focus="false" data-type="jewelry">جواهرات</button>
                         </div>
                     </div>
                 </section>
@@ -34,59 +34,13 @@
             <section class="products">
                 <div class="container">
                     <div class="products-container">
-                        <div class="product">
-                            <div class="product-image">
-                                <img draggable="false" src="images/watches/images.jpg" alt="">
-                            </div>
-                            <div class="product-details">
-                                <p class="product-text">ساعت برند رولکس</p>
-                                <p class="product-price">1.000.000 ت</p>
-                            </div>
-                        </div>   <div class="product">
-                            <div class="product-image">
-                                <img draggable="false" src="images/watches/images.jpg" alt="">
-                            </div>
-                            <div class="product-details">
-                                <p class="product-text">ساعت برند رولکس</p>
-                                <p class="product-price">1.000.000 ت</p>
-                            </div>
-                        </div>   <div class="product">
-                            <div class="product-image">
-                                <img draggable="false" src="images/watches/images.jpg" alt="">
-                            </div>
-                            <div class="product-details">
-                                <p class="product-text">ساعت برند رولکس</p>
-                                <p class="product-price">1.000.000 ت</p>
-                            </div>
-                        </div>   <div class="product">
-                            <div class="product-image">
-                                <img draggable="false" src="images/watches/images.jpg" alt="">
-                            </div>
-                            <div class="product-details">
-                                <p class="product-text">ساعت برند رولکس</p>
-                                <p class="product-price">1.000.000 ت</p>
-                            </div>
-                        </div>   <div class="product">
-                            <div class="product-image">
-                                <img draggable="false" src="images/watches/images.jpg" alt="">
-                            </div>
-                            <div class="product-details">
-                                <p class="product-text">ساعت برند رولکس</p>
-                                <p class="product-price">1.000.000 ت</p>
-                            </div>
-                        </div>   <div class="product">
-                            <div class="product-image">
-                                <img draggable="false" src="images/watches/images.jpg" alt="">
-                            </div>
-                            <div class="product-details">
-                                <p class="product-text">ساعت برند رولکس</p>
-                                <p class="product-price">1.000.000 ت</p>
-                            </div>
-                        </div>
+<!--                        js content render here-->
                     </div>
-                </div>
             </section>
         </main>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.7.2/axios.min.js"
+                integrity="sha512-JSCFHhKDilTRRXe9ak/FJ28dcpOJxzQaCd3Xg8MyF6XFjODhy/YMCM8HW0TFDckNHWUewW+kfvhin43hKtJxAw=="
+                crossorigin="anonymous" referrerpolicy="no-referrer"></script>
         <script src="app.js"></script>
     </body>
 </html>

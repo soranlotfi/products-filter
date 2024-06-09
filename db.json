@@ -1,0 +1,95 @@
+{
+  "items":[
+    {
+      "id": 0,
+      "title": "Sunrise Necklace",
+      "class": "jewelry",
+      "price": 15000,
+      "image": "images/Sunrise Necklace.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Angel Hat",
+      "class": "hat",
+      "price": 20000,
+      "image": "images/angelhat.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Spring Dress",
+      "class": "shirt",
+      "price": 30000,
+      "image": "images/spring dresss.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Star Necklace",
+      "class": "jewelry",
+      "price": 25000,
+      "image": "images/Star Necklace.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Fisherman Watch",
+      "class": "watch",
+      "price": 10000,
+      "image": "images/Fisherman Watch.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Solar Jewels",
+      "class": "jewelry",
+      "price": 40000,
+      "image": "images/Solar Jewels.webp"
+    },
+    {
+      "id": 6,
+      "title": "Day and Night Clothes",
+      "class": "shirt",
+      "price": 35000,
+      "image": "images/Day and Night Clothes.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Ruby Necklace",
+      "class": "jewelry",
+      "price": 18000,
+      "image": "images/Ruby Necklace.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Seafarer Watch",
+      "class": "watch",
+      "price": 8000,
+      "image": "images/Seafarer Watch.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Red Flower Jewelry",
+      "class": "jewelry",
+      "price": 16000,
+      "image": "images/Red Flower Jewelry.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Bride Dress",
+      "class": "gown",
+      "price": 45000,
+      "image": "images/Bride Dress.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Travel Watch",
+      "class": "watch",
+      "price": 12000,
+      "image": "images/Travel Watch.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Saffron Jewelry",
+      "class": "jewelry",
+      "price": 13000,
+      "image": "images/Saffron Jewelry.webp"
+    }
+  ]
+}
